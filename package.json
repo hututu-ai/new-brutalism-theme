@@ -1,0 +1,46 @@
+{
+  "name": "new-brutalism-light",
+  "displayName": "New Brutalism Light",
+  "description": "A brutalist light theme for VS Code — bold, green, unapologetic. Pure black borders, lime green accents, white cards on light gray.",
+  "version": "0.1.0",
+  "publisher": "your-publisher-name",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "brutalism",
+    "brutalist",
+    "neo-brutalism",
+    "new brutalism",
+    "light theme",
+    "green",
+    "lime",
+    "new ugly",
+    "新粗野风"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "New Brutalism Light",
+        "uiTheme": "vs",
+        "path": "./themes/new-brutalism-light-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/new-brutalism-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/new-brutalism-theme/issues"
+  },
+  "homepage": "https://github.com/your-username/new-brutalism-theme/blob/main/README.md",
+  "galleryBanner": {
+    "color": "#f7f7f7",
+    "theme": "light"
+  }
+}
