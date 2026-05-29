@@ -83,7 +83,7 @@
 
 | Token | Color | Style |
 |-------|-------|-------|
-| Keywords & Storage | `#000000` | **Bold** |
+| Keywords & Storage | `#84cc16` | **Bold green** |
 | Strings & Constants | `#84cc16` | — |
 | Functions | `#000000` | **Bold** |
 | Types & Classes | `#000000` | **Bold** |
