@@ -2,7 +2,7 @@
   "name": "new-brutalism-light",
   "displayName": "New Brutalism Light",
   "description": "A brutalist light theme for VS Code — bold, green, unapologetic. Pure black borders, lime green accents, white cards on light gray.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "publisher": "your-publisher-name",
   "license": "MIT",
   "engines": {

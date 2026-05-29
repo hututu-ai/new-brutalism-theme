@@ -437,7 +437,17 @@
 
     /* ── Accessibility ── */
     "accessibilityBar.background": "#84cc16",
-    "accessibilityBar.foreground": "#000000"
+    "accessibilityBar.foreground": "#000000",
+
+    /* ── Text Blocks (controls Claude Code / Markdown code block backgrounds) ── */
+    "textBlockQuote.background": "#f0fdf4",
+    "textBlockQuote.border": "#84cc16",
+    "textCodeBlock.background": "#f0fdf4",
+    "textPreformat.background": "#f0fdf4",
+    "textPreformat.foreground": "#000000",
+    "textSeparator.foreground": "#000000",
+    "textLink.foreground": "#84cc16",
+    "textLink.activeForeground": "#65a30d"
   },
   "tokenColors": [
     /* ── Comments ── */
